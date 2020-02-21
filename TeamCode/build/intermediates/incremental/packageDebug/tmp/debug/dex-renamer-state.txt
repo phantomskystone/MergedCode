@@ -1,4 +1,0 @@
-#Tue Feb 18 17:12:38 CST 2020
-base.0=/Users/ianweller/Documents/Github/Wesley-master/TeamCode/build/intermediates/dex/debug/mergeDexDebug/out
-path.0=classes.dex
-renamed.0=classes.dex
